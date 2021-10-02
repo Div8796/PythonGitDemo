@@ -1,7 +1,7 @@
 from utils import *
 
 # Add 1 to 5
-add1To5()
+ans = add1To5()
 
 # Multiply previous answer by 2
 
